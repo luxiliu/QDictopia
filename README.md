@@ -5,6 +5,8 @@ Thanks for all your support!
 
 QDictopia
 =
+![screenshot](https://user-images.githubusercontent.com/22950288/28069158-c9fe5746-668b-11e7-821d-575bd6d290c5.png)
+
 QDictopia is an edition of sdcv/stardict on Qtopia Open Source 4.3.1. It uses sdcv's lib for word lookup and Qt for GUI.
 
 Build & install
