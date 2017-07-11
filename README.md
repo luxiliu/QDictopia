@@ -34,4 +34,4 @@ Restart Qtopia, then you will see a different font is used.
 	
 Developed By
 =
-* Luxi Liu - <luxi.liu@gmail.com>
+Luxi Liu - <luxi.liu@gmail.com>
